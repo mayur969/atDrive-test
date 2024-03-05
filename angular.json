@@ -123,6 +123,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "atdrive-task"
+    }
+  },
+  "defaultProject": "atdrive-task",
+  "cli": {
+    "analytics": "fae21192-0b56-4afb-b9d2-628ef7e12e35"
+  }
 }
